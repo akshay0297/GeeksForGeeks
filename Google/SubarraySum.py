@@ -14,6 +14,7 @@ for i in range(x):
     while left < right :
         if l[left] + l[right] == sum :
             flag =1
+            print ("(" , l[left] , "," , l[right] , ")" )
             break
         elif l[left] + l[right] < sum:
             left += 1
