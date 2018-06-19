@@ -42,4 +42,4 @@ for i in range(t):
                 print(count)
         print (count)
 
-#few test cases not working
+#one test case not working
